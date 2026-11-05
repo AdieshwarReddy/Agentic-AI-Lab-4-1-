@@ -1,0 +1,33 @@
+
+EXPERIMENT 6: REACT-BASED AI AGENT
+========================================
+
+Enter your question: What is 25 multiplied by 4?
+
+Action: calculator
+Action Input: {'expression': '25 * 4'}
+Observation: 100
+
+Final Answer:
+25 multiplied by 4 is 100.
+
+Experiment execution finished.
+
+
+----------------------------------------
+EXAMPLE 2: SEARCH TOOL
+----------------------------------------
+
+EXPERIMENT 6: REACT-BASED AI AGENT
+========================================
+
+Enter your question: What is Agentic AI?
+
+Action: search
+Action Input: {'query': 'Agentic AI'}
+Observation: Agentic AI refers to AI systems that pursue goals through planning, decision-making, and actions.
+
+Final Answer:
+Agentic AI refers to AI systems that pursue goals through planning, decision-making, and actions.
+
+Experiment execution finished.
