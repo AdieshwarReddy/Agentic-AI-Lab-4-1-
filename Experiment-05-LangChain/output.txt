@@ -1,0 +1,32 @@
+
+EXPERIMENT 5: LANGCHAIN APPLICATION
+========================================
+
+Enter your question: What is Artificial Intelligence?
+
+Processing your question...
+
+Question: What is Artificial Intelligence?
+
+Generated Answer:
+
+Artificial Intelligence (AI) is a branch of computer
+science that enables machines to perform tasks that
+normally require human intelligence.
+
+AI systems can learn from data, recognize patterns,
+solve problems, and make decisions.
+
+Examples of Artificial Intelligence include:
+
+1. Chatbots and Virtual Assistants
+2. Recommendation Systems
+3. Self-Driving Cars
+4. Facial Recognition Systems
+5. Language Translation Applications
+
+Artificial Intelligence is widely used in
+healthcare, education, banking, transportation,
+and many other industries.
+
+Experiment completed successfully.
