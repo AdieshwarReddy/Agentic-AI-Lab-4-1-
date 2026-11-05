@@ -1,0 +1,50 @@
+
+EXPERIMENT 10: MULTI-AGENT TRAVEL SYSTEM
+=============================================
+
+Travel Requirements
+Source: Hyderabad
+Destination: Delhi
+Nights: 3
+Budget: Rs. 12000
+
+[Coordinator] Travel request received.
+[Delegator] Assigning task to Flight Agent
+
+[Flight Agent] Searching flights...
+[Flight Agent] Flight selected.
+[Delegator] Assigning task to Hotel Agent
+
+[Hotel Agent] Searching hotels...
+[Hotel Agent] Hotel selected.
+[Delegator] Assigning task to Budget Agent
+
+[Budget Agent] Calculating expenses...
+
+[Coordinator] Travel planning completed.
+
+=============================================
+FINAL TRAVEL BOOKING SUMMARY
+=============================================
+From: Hyderabad
+To: Delhi
+Number of Nights: 3
+
+FLIGHT DETAILS
+Airline: IndiGo
+Flight Cost: Rs. 3800
+
+HOTEL DETAILS
+Hotel: Budget Stay Delhi
+Price per Night: Rs. 1800
+Hotel Cost: Rs. 5400
+
+BUDGET DETAILS
+Available Budget: Rs. 12000
+Total Travel Cost: Rs. 9200
+Budget Status: WITHIN BUDGET
+
+Note: This is a simulated travel plan.
+No real booking has been made.
+
+Experiment completed successfully.
