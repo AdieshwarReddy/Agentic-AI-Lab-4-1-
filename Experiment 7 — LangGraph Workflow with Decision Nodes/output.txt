@@ -1,0 +1,28 @@
+
+EXPERIMENT 7: LANGGRAPH WORKFLOW
+========================================
+
+Node 1: Calculate Percentage
+Total Marks: 433
+Percentage: 86.6
+
+Node 2: Assign Grade
+Grade: A
+
+Decision Node: Check Result
+Decision: PASS
+
+Node 3: Pass Node
+
+========================================
+FINAL STUDENT EVALUATION
+========================================
+Student Name: Santhosh
+Marks: [85, 90, 78, 88, 92]
+Total Marks: 433
+Percentage: 86.6
+Grade: A
+Status: PASS
+Message: Congratulations Santhosh! You have successfully passed.
+
+Experiment completed successfully.
