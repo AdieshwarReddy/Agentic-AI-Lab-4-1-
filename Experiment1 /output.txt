@@ -1,0 +1,9 @@
+
+RULE-BASED INTELLIGENT AGENT
+----------------------------
+1. Prepare for Exam | Priority: 1 | Deadline: 1 days
+2. Submit Project | Priority: 1 | Deadline: 2 days
+3. Complete Assignment | Priority: 2 | Deadline: 3 days
+4. Read Notes | Priority: 3 | Deadline: 4 days
+
+Task scheduling completed successfully.
