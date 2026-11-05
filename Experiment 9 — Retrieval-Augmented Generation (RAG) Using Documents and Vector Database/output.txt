@@ -1,0 +1,60 @@
+
+EXPERIMENT 9: RAG SYSTEM
+========================================
+
+Document loaded successfully.
+Number of document chunks: [Actual chunk count]
+Vector database created successfully.
+
+Enter your question: What is Retrieval-Augmented Generation?
+
+Retrieving relevant documents...
+
+Retrieved Document Chunks:
+
+Chunk 1:
+Retrieval-Augmented Generation (RAG) is a technique
+that combines information retrieval with Large
+Language Models.
+
+A RAG system retrieves relevant information from
+external documents before generating an answer.
+
+Source: sample_document.txt
+
+Chunk 2:
+RAG systems commonly use embeddings and vector
+databases to perform semantic similarity searches.
+
+The retrieved information is supplied to the LLM
+as context for generating document-grounded responses.
+
+Source: sample_document.txt
+
+Generating answer...
+
+========================================
+FINAL RAG ANSWER
+========================================
+
+Question: What is Retrieval-Augmented Generation?
+
+Answer:
+
+Retrieval-Augmented Generation (RAG) is an AI
+technique that combines information retrieval
+with Large Language Models.
+
+It retrieves relevant information from external
+documents and uses that information as context
+to generate answers.
+
+RAG systems commonly use embeddings and vector
+databases to find relevant document content.
+
+RAG helps generate more relevant and
+document-grounded responses.
+
+Source: sample_document.txt
+
+Experiment completed successfully.
