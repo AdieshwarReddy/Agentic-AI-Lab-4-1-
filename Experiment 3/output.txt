@@ -1,0 +1,78 @@
+
+EXPERIMENT 3: PROMPT ENGINEERING
+========================================
+
+1. ZERO-SHOT PROMPTING
+
+Prompt:
+Classify the sentiment of the following sentence
+as Positive, Negative, or Neutral.
+
+Sentence: I love learning Artificial Intelligence.
+
+Return only the sentiment label.
+
+Response: Positive
+
+
+2. FEW-SHOT PROMPTING
+
+Prompt:
+Classify the sentiment of the following sentences.
+
+Examples:
+
+Sentence: I love Python.
+Sentiment: Positive
+
+Sentence: This application is terrible.
+Sentiment: Negative
+
+Sentence: The weather is normal.
+Sentiment: Neutral
+
+Now classify:
+
+Sentence: AI makes learning interesting.
+Sentiment:
+
+Response: Positive
+
+
+3. CHAIN-OF-THOUGHT PROMPTING
+
+Prompt:
+A student has 5 books and buys 3 more books.
+
+Each book costs Rs. 100.
+
+Calculate the total value of all books.
+
+Show a short step-by-step calculation
+and provide the final answer.
+
+Response:
+Initial number of books = 5
+Additional books purchased = 3
+Total books = 5 + 3 = 8
+Cost per book = Rs. 100
+Total value = 8 x 100 = Rs. 800
+
+Final Answer: Rs. 800
+
+
+========================================
+PROMPT ENGINEERING COMPARISON
+========================================
+
+Zero-Shot Result:
+Positive
+
+Few-Shot Result:
+Positive
+
+Chain-of-Thought Result:
+Total books = 8
+Total value = Rs. 800
+
+Experiment completed successfully.
